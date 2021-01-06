@@ -9,7 +9,15 @@
 C:/Girit/opencv_projet/main.cpp
 opencv2/opencv.hpp
 C:/Girit/opencv_projet/opencv2/opencv.hpp
+opencv2/core.hpp
+C:/Girit/opencv_projet/opencv2/core.hpp
+opencv2/highgui.hpp
+C:/Girit/opencv_projet/opencv2/highgui.hpp
 iostream
+-
+list
+-
+vector
 -
 
 C:/opencv-mingw/build/include/opencv2/calib3d.hpp
